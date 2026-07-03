@@ -16,7 +16,7 @@ This tool automates SANS 10142 compliance checks:
     - Single-phase: `Vd = 2 × I × R × L`
     - Three-phase: `Vd = √3 × I × R × L`
 - Compares results against the SANS 10142 limit of ≤5% of supply voltage
-- Flags each cable run as `Pass` or `Fail` in the output report
+- Flags each cable run as `Acceptable` or `Adjust cable size` in the output report
 - Exports a full report to `voltage_drop_results.csv` for documentation/COC
 - Identifies runs where cable size should be increased to meet code
 
