@@ -1,0 +1,10 @@
+
+circuit_id,description,length_m,load_current_A,phases,conductor_size_mm2,supply_voltage_V,conductor_material
+DB1-L1,Workshop Socket Circuit,45,25,1,4,230,copper
+DB1-L2,Aircon Unit 1,60,18,1,2.5,230,copper
+DB1-3P1,Lathe Machine,80,40,3,10,400,copper
+DB2-L1,Office Lights,35,10,1,1.5,230,copper
+DB2-3P1,Compressor,120,55,3,16,400,copper
+DB3-L1,Geyser,20,20,1,2.5,230,copper
+DB3-3P2,Welding Socket,50,32,3,6,400,copper
+SUB1-F1,Sub DB Feed,150,70,3,25,400,copper
